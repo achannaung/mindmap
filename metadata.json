@@ -1,0 +1,5 @@
+{
+  "name": "Mind Map Studio",
+  "description": "A MindMeister-style mind mapping application with canvas, collapse, linking, zoom, pan, and marquee select features.",
+  "requestFramePermissions": []
+}
